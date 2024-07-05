@@ -14,7 +14,7 @@ The **Random Jokes Chrome Extension** is a fun and simple tool that generates ra
 
 1. **Download the Extension**: Clone or download the repository to your local machine.
     ```bash
-    git clone https://github.com/yourusername/random-jokes-extension.git
+    git clone https://github.com/riyachudasama23/DadJokesExtension.git
     ```
 2. **Open Chrome Extensions Page**: Open Chrome and go to `chrome://extensions/`.
 3. **Enable Developer Mode**: Toggle the switch for "Developer mode" in the top right corner.
@@ -37,7 +37,7 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 1. **Fork the Repository**: Click the "Fork" button at the top right corner of this page.
 2. **Clone Your Fork**: Clone your forked repository to your local machine.
     ```bash
-    git clone https://github.com/yourusername/random-jokes-extension.git
+    git clone https://github.com/riyachudasama23/DadJokesExtension.git
     ```
 3. **Create a Branch**: Create a new branch for your feature or bug fix.
     ```bash
